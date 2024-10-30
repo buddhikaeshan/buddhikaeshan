@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buddhika Eshan</h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fd640ce4-6e63-4a42-948e-7763050beee5"  width="600" />
+<p align="center" width="600">
+  https://github.com/user-attachments/assets/fd640ce4-6e63-4a42-948e-7763050beee5
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhikaeshan&label=Profile%20views&color=0e75b6&style=flat" alt="buddhikaeshan" /> </p>
 
