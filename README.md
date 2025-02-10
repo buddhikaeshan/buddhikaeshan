@@ -2,9 +2,7 @@
 <p align="center" width="600">
   
 </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhikaeshan&label=Profile%20views&color=0e75b6&style=flat" alt="buddhikaeshan" /> </p> -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddhikaeshan" alt="buddhikaeshan" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhikaeshan&label=Profile%20views&color=0e75b6&style=flat" alt="buddhikaeshan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
